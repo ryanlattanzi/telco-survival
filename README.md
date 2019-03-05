@@ -18,9 +18,7 @@ Prequisites
 Explanation of files
 --------
 
-There is no execution needed to run anything, as the full PDF of the Rmd file is provided called `Project.pdf` (the Rmd file is still provided for convenience). This PDF contains all code used to run the models using the datasets provided. A description of each dataset follows.
-
-  1. The file `rawdata.xlsx`is not to be used but is placed there to show the format of the original data.
+The format is simple with the data used called `data.csv`, the code ran called `Survival.R`, and the final PDF with Tableau graphics entitled `Case_Study.pdf`.
   
 Contributors
 --------------
