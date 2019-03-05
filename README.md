@@ -18,7 +18,7 @@ Prequisites
 Explanation of files
 --------
 
-The format is simple with the data used called `data.csv`, the code ran called `Survival.R`, and the final PDF with Tableau graphics entitled `Case_Study.pdf`.
+The format is simple with the data used called `data.csv`, the code ran called `Survival.R`, and the final PDF report that includes Tableau graphics and snippets from the code output entitled `Case_Study.pdf`.
   
 Contributors
 --------------
